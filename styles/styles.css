@@ -48,13 +48,14 @@
 
 .button {
 padding: 5px;
-border: 10px;
+border-width: 1px;
+border-color: #dcdcdc;
 border-radius: 18px;
-height: 80px;
+height: 50px;
 width: 300px;
 text-decoration: none;
 box-shadow: 5px 10px 5px 0 rgba(0,0,0,0.30);
-font-size: 1.1em;		
+font-size: 1.1em;	
 background-color: #e9e9ef;
 transition: 300ms ease-out;
 
